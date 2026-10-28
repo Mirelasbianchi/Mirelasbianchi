@@ -30,7 +30,7 @@ At Inteli I build projects with real partner companies every module: web apps, A
 ## Experience
 
 ### 🤖 Agent Engineer (AI) · Intern — [Fintalk](https://www.fintalk.ai/)
-*São Paulo, SP · 6 months*
+*São Paulo, SP · 8 months*
 
 - Prompt engineering for AI agents in a sales pipeline (CRM) system, including logic to filter opportunities by owner and by company.
 - Built and structured tools for LLM agents running in production, focused on accuracy and processing efficiency.
