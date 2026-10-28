@@ -1,8 +1,8 @@
 <h1 align="center">Mirela Schneider Bianchi</h1>
 
 <p align="center">
-  <strong>AI Engineer in training · Software Engineering @ Inteli</strong><br>
-  Building LLM agents, data pipelines and software that solves real problems.
+  <strong>AI Agent Engineer · Software Engineering @ Inteli</strong><br>
+  Building LLM agents and tools that run in production.
 </p>
 
 <p align="center">
@@ -16,14 +16,24 @@
 
 I'm a Software Engineering student at **[Inteli – Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)** (São Paulo, Brazil), building my career as an **AI Engineer**.
 
-My focus is turning large language models into reliable products: designing **AI agents with tool calling**, structuring prompts and function schemas, connecting models to real business systems, and backing it all with solid software engineering, data analysis and architecture.
+I have hands-on experience engineering **AI agents in production**: writing prompts, designing tools for LLM agents and connecting them to real business systems like CRMs. I combine that with full-stack development, cloud and agile teamwork.
 
-At Inteli I work on project-based modules with real partner companies, which has given me hands-on experience with teams, clients, deadlines and production-grade problems.
+At Inteli I build projects with real partner companies every module: web apps, AI prediction, IoT, cloud services, mobile and scalable distributed systems.
 
 - 🤖 **Focus:** LLM agents, tool calling, prompt engineering, AI integrations
-- 📊 **Also into:** data analysis with Python, software architecture, IoT
-- 🌱 **Learning now:** RAG, agent evaluation and deploying AI apps to production
-- 🤝 **Open to:** internships and projects in AI engineering
+- 💻 **Also build:** full-stack web apps, cloud services, data analysis with Python
+- 🏆 **Winner** of a blockchain hackathon on Solana
+- 🤝 **Open to:** internships in AI and software engineering
+
+---
+
+## Experience
+
+### 🤖 Agent Engineer (AI) · Intern — [Fintalk](https://www.fintalk.ai/)
+*São Paulo, SP · 6 months*
+
+- Prompt engineering for AI agents in a sales pipeline (CRM) system, including logic to filter opportunities by owner and by company.
+- Built and structured tools for LLM agents running in production, focused on accuracy and processing efficiency.
 
 ---
 
@@ -33,7 +43,7 @@ At Inteli I work on project-based modules with real partner companies, which has
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[CRM AI Agent](https://github.com/Mirelasbianchi/twenty_crm)** | LLM agent that registers and searches companies, contacts, deals, notes and projects in a CRM through natural language, using function/tool calling with JSON schemas. | LLM agents · Tool calling · JSON Schema |
+| **[CRM AI Agent](https://github.com/Mirelasbianchi/twenty_crm)** | LLM agent that registers and searches companies, contacts, deals, notes and projects in a CRM (Twenty) through natural language, using tool calling with JSON schemas. | LLM agents · Tool calling · JSON Schema |
 | **[Medical Data Visualizer](https://github.com/Mirelasbianchi/medical-data-visualizer)** | Exploratory analysis and visualization of medical examination data. | Python · Pandas · Seaborn |
 | **[Sea Level Predictor](https://github.com/Mirelasbianchi/sea-level-predictor)** | Linear regression to predict sea level rise through 2050. | Python · SciPy · Matplotlib |
 | **[Page View Time Series](https://github.com/Mirelasbianchi/page-view-time-series-visualizer)** | Time series analysis of web traffic with line, bar and box plots. | Python · Pandas · Matplotlib |
@@ -45,6 +55,14 @@ At Inteli I work on project-based modules with real partner companies, which has
 | **e-Cidade Modernization** · *Inteli × DBSeller* | Architecture proposal to modernize e-Cidade, the open-source municipal management system used by ~300 Brazilian cities: moving long-running routines out of the browser request, async processing with queues and preserving transactional integrity. | PHP · Laravel · Queues · Software Architecture |
 | **[W1 GO](https://github.com/Mirelasbianchi/W1GO)** · *Hackathon W1 Consultoria × Poli Júnior* | Web app to track the creation of holdings and asset management in real time for consultants and clients. | JavaScript · Web |
 | **[OPEN](https://github.com/Mirelasbianchi/open)** | Concept for a visual debugger and transaction profiler for Solana (flame graphs, CPI call tree, state diff). | Next.js · Node.js · Rust |
+
+### 🏆 Achievements
+
+- 🥇 **Winner** of a blockchain hackathon on the Solana network
+- 🥇 **Gold medal** at OBMEP (Brazilian Math Olympiad) and Olimpíada Mandacaru
+- 🥈 **Silver** at OBA (Brazilian Astronomy Olympiad) · 🥉 **Bronze** at Kangourou Math Olympiad
+- 🎓 Selected for **FGV's Talent Selection program** in Pure and Applied Mathematics
+- 🌎 Model United Nations as advocate and chair
 
 ### 📡 IoT & Security
 
@@ -75,6 +93,10 @@ At Inteli I work on project-based modules with real partner companies, which has
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
