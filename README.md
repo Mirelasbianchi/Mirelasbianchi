@@ -23,6 +23,7 @@ At Inteli I build projects with real partner companies every module: web apps, A
 - 🤖 **Focus:** LLM agents, tool calling, prompt engineering, AI integrations
 - 💻 **Also build:** full-stack web apps, cloud services, data analysis with Python
 - 🏆 **Winner** of a blockchain hackathon on Solana
+- 🧑‍💻 Member of Inteli's **Blockchain** and **Cybersecurity** academic clubs
 - 🤝 **Open to:** internships in AI and software engineering
 
 ---
@@ -63,6 +64,11 @@ At Inteli I build projects with real partner companies every module: web apps, A
 - 🥈 **Silver** at OBA (Brazilian Astronomy Olympiad) · 🥉 **Bronze** at Kangourou Math Olympiad
 - 🎓 Selected for **FGV's Talent Selection program** in Pure and Applied Mathematics
 - 🌎 Model United Nations as advocate and chair
+
+### 🧑‍💻 Academic clubs
+
+- ⛓️ **Blockchain Club** @ Inteli — Web3, smart contracts and decentralized applications
+- 🔐 **Cybersecurity Club** @ Inteli — security analysis, vulnerabilities and attack scenarios
 
 ### 📡 IoT & Security
 
