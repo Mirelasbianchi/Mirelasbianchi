@@ -51,9 +51,9 @@ I'm a Software Engineering student at **[Inteli](https://www.inteli.edu.br/)**, 
 
 | Project | Description | Focus |
 |---|---|---|
-| **Brazilian Data MCP Server** | MCP server that gives agents access to Brazilian public APIs (Central Bank, BrasilAPI, exchange rates), published as an open-source package. | MCP · Tool calling · Python |
-| **Personal Finance Agent with Evals** | Agent that answers personal finance questions from a bank statement, with an evaluation suite and a metrics dashboard. | Evals · Observability |
-| **Production RAG Platform** | FastAPI service with PostgreSQL and pgvector, Docker, CI/CD and AWS deployment, including retrieval evaluation. | Backend · RAG · Cloud |
+| **[Brazilian Data MCP Server](https://github.com/Mirelasbianchi/brazil-data-mcp)** | MCP server that gives agents access to Brazilian public APIs (Central Bank, BrasilAPI, exchange rates), published as an open-source package. | MCP · Tool calling · Python |
+| **[Personal Finance Agent with Evals](https://github.com/Mirelasbianchi/finance-agent-evals)** | Agent that answers personal finance questions from a bank statement, with an evaluation suite and a metrics dashboard. | Evals · Observability |
+| **[Production RAG Platform](https://github.com/Mirelasbianchi/rag-platform)** | FastAPI service with PostgreSQL and pgvector, Docker, CI/CD and AWS deployment, including retrieval evaluation. | Backend · RAG · Cloud |
 
 <details>
 <summary><strong>Other projects (IoT, security and data)</strong></summary>
