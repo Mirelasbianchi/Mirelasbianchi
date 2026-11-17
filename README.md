@@ -14,7 +14,7 @@ Software Engineering @ Inteli · São Paulo, Brazil
 
 ## About
 
-I build LLM agents that run in production for real businesses. At **[Fintalk](https://www.fintalk.ai/)** I design agent tools, prompts and integrations with business systems such as CRMs, and I work on making those agents accurate and efficient for clients across different industries.
+I build LLM agents that run in production for real businesses. In my current role I design agent tools, prompts and integrations with business systems such as CRMs, and I work on making those agents accurate and efficient for clients across different industries.
 
 I'm a Software Engineering student at **[Inteli](https://www.inteli.edu.br/)**, where every module is a project with a partner company. My focus is AI engineering on top of a solid backend foundation: agent evaluation, observability, retrieval and the services that keep it all running.
 
@@ -28,7 +28,7 @@ I'm a Software Engineering student at **[Inteli](https://www.inteli.edu.br/)**, 
 
 ## Experience
 
-**AI Agent Engineer Intern** · [Fintalk](https://www.fintalk.ai/) · São Paulo
+**AI Agent Engineer Intern** · São Paulo
 
 - Build and maintain LLM agents in production for clients in multiple industries.
 - Design tools (function calling with JSON Schema) that connect agents to business systems, including a sales pipeline CRM with filtering by owner and company.
