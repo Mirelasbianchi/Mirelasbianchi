@@ -1,124 +1,93 @@
 <h1 align="center">Mirela Schneider Bianchi</h1>
 
 <p align="center">
-  <strong>AI Agent Engineer · Software Engineering @ Inteli</strong><br>
-  Building LLM agents and tools that run in production.
+<strong>AI Engineer · LLM Agents · Python Backend</strong><br>
+Software Engineering @ Inteli · São Paulo, Brazil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirela-bianchi-608601254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mirela.bianchi@sou.inteli.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/mirela-bianchi-608601254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mirela.bianchi@sou.inteli.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## About me
+## About
 
-I'm a Software Engineering student at **[Inteli – Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)** (São Paulo, Brazil), building my career as an **AI Engineer**.
+I build LLM agents that run in production for real businesses. At **[Fintalk](https://www.fintalk.ai/)** I design agent tools, prompts and integrations with business systems such as CRMs, and I work on making those agents accurate and efficient for clients across different industries.
 
-I have hands-on experience engineering **AI agents in production**: writing prompts, designing tools for LLM agents and connecting them to real business systems like CRMs. I combine that with full-stack development, cloud and agile teamwork.
+I'm a Software Engineering student at **[Inteli](https://www.inteli.edu.br/)**, where every module is a project with a partner company. My focus is AI engineering on top of a solid backend foundation: agent evaluation, observability, retrieval and the services that keep it all running.
 
-At Inteli I build projects with real partner companies every module: web apps, AI prediction, IoT, cloud services, mobile and scalable distributed systems.
+**Currently working on**
 
-- 🤖 **Focus:** LLM agents, tool calling, prompt engineering, AI integrations
-- 💻 **Also build:** full-stack web apps, cloud services, data analysis with Python
-- 🏆 **Winner** of a blockchain hackathon on Solana
-- 🧑‍💻 Member of Inteli's **Blockchain** and **Cybersecurity** academic clubs
-- 🤝 **Open to:** internships in AI and software engineering
+- Evaluating agents: test sets, tool-calling accuracy and LLM-as-judge
+- Model Context Protocol (MCP) and agent frameworks
+- Python backend: FastAPI, PostgreSQL, Docker and AWS
 
 ---
 
 ## Experience
 
-### 🤖 Agent Engineer (AI) · Intern — [Fintalk](https://www.fintalk.ai/)
-*São Paulo, SP · 8 months*
+**AI Agent Engineer Intern** · [Fintalk](https://www.fintalk.ai/) · São Paulo
 
-- Prompt engineering for AI agents in a sales pipeline (CRM) system, including logic to filter opportunities by owner and by company.
-- Built and structured tools for LLM agents running in production, focused on accuracy and processing efficiency.
+- Build and maintain LLM agents in production for clients in multiple industries.
+- Design tools (function calling with JSON Schema) that connect agents to business systems, including a sales pipeline CRM with filtering by owner and company.
+- Write and iterate on agent prompts with a focus on accuracy and processing efficiency.
 
 ---
 
-## Featured projects
+## Projects
 
-### 🤖 AI & Data
+### AI agents and backend
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[CRM AI Agent](https://github.com/Mirelasbianchi/twenty_crm)** | LLM agent that registers and searches companies, contacts, deals, notes and projects in a CRM (Twenty) through natural language, using tool calling with JSON schemas. | LLM agents · Tool calling · JSON Schema |
-| **[Medical Data Visualizer](https://github.com/Mirelasbianchi/medical-data-visualizer)** | Exploratory analysis and visualization of medical examination data. | Python · Pandas · Seaborn |
-| **[Sea Level Predictor](https://github.com/Mirelasbianchi/sea-level-predictor)** | Linear regression to predict sea level rise through 2050. | Python · SciPy · Matplotlib |
-| **[Page View Time Series](https://github.com/Mirelasbianchi/page-view-time-series-visualizer)** | Time series analysis of web traffic with line, bar and box plots. | Python · Pandas · Matplotlib |
-
-### 🏛️ Software engineering with partner companies
-
-| Project | What it is | Stack |
-|---|---|---|
-| **e-Cidade Modernization** · *Inteli × DBSeller* | Architecture proposal to modernize e-Cidade, the open-source municipal management system used by ~300 Brazilian cities: moving long-running routines out of the browser request, async processing with queues and preserving transactional integrity. | PHP · Laravel · Queues · Software Architecture |
-| **[W1 GO](https://github.com/Mirelasbianchi/W1GO)** · *Hackathon W1 Consultoria × Poli Júnior* | Web app to track the creation of holdings and asset management in real time for consultants and clients. | JavaScript · Web |
+| **[CRM AI Agent](https://github.com/Mirelasbianchi/twenty_crm)** | LLM agent that creates and searches companies, contacts, deals, notes and projects in the Twenty CRM through natural language, using tool calling with JSON Schema. | LLM agents · Tool calling · JSON Schema |
+| **e-Cidade Modernization** · Inteli × DBSeller | Architecture proposal for e-Cidade, the open-source municipal management system used by around 300 Brazilian cities: moving long-running routines out of the request cycle with queues and async processing while preserving transactional integrity. | PHP · Laravel · Queues · Software architecture |
 | **[OPEN](https://github.com/Mirelasbianchi/open)** | Concept for a visual debugger and transaction profiler for Solana (flame graphs, CPI call tree, state diff). | Next.js · Node.js · Rust |
+| **[W1 GO](https://github.com/Mirelasbianchi/W1GO)** · W1 Consultoria × Poli Júnior hackathon | Web app for consultants and clients to track holding creation and asset management in real time. | JavaScript |
 
-### 🏆 Achievements
+### In progress
 
-- 🥇 **Winner** of a blockchain hackathon on the Solana network
-- 🥇 **Gold medal** at OBMEP (Brazilian Math Olympiad) and Olimpíada Mandacaru
-- 🥈 **Silver** at OBA (Brazilian Astronomy Olympiad) · 🥉 **Bronze** at Kangourou Math Olympiad
-- 🎓 Selected for **FGV's Talent Selection program** in Pure and Applied Mathematics
-- 🌎 Model United Nations as advocate and chair
-
-### 🧑‍💻 Academic clubs
-
-- ⛓️ **Blockchain Club** @ Inteli — Web3, smart contracts and decentralized applications
-- 🔐 **Cybersecurity Club** @ Inteli — security analysis, vulnerabilities and attack scenarios
-
-### 📡 IoT & Security
-
-| Project | What it is | Stack |
+| Project | Description | Focus |
 |---|---|---|
-| **[Smart Traffic Light](https://github.com/Mirelasbianchi/semaforo_inteligente)** | Two ESP32 traffic lights synchronized over MQTT, with LDR vehicle detection, night mode and a web dashboard. | ESP32 · MQTT · C++ · JavaScript |
+| **Brazilian Data MCP Server** | MCP server that gives agents access to Brazilian public APIs (Central Bank, BrasilAPI, exchange rates), published as an open-source package. | MCP · Tool calling · Python |
+| **Personal Finance Agent with Evals** | Agent that answers personal finance questions from a bank statement, with an evaluation suite and a metrics dashboard. | Evals · Observability |
+| **Production RAG Platform** | FastAPI service with PostgreSQL and pgvector, Docker, CI/CD and AWS deployment, including retrieval evaluation. | Backend · RAG · Cloud |
+
+<details>
+<summary><strong>Other projects (IoT, security and data)</strong></summary>
+<br>
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Smart Traffic Light](https://github.com/Mirelasbianchi/semaforo_inteligente)** | Two ESP32 traffic lights synchronized over MQTT, with LDR vehicle detection, night mode and a web dashboard. | ESP32 · MQTT · C++ |
 | **[IoT Security Analysis](https://github.com/Mirelasbianchi/ataques_seguranca)** | Technical report on vulnerabilities and attack scenarios for an ESP32 web server. | Security · IoT |
-| **[RC Circuit Analysis](https://github.com/Mirelasbianchi/capacitor_resistor)** | Comparison between theory, simulation and real measurements of an RC circuit. | Python · Arduino |
+| **[RC Circuit Analysis](https://github.com/Mirelasbianchi/capacitor_resistor)** | Theory, simulation and real measurements of an RC circuit compared. | Python · Arduino |
+| **[Medical Data Visualizer](https://github.com/Mirelasbianchi/medical-data-visualizer)** | Exploratory analysis and visualization of medical examination data. | Python · Pandas · Seaborn |
+| **[Sea Level Predictor](https://github.com/Mirelasbianchi/sea-level-predictor)** | Linear regression to project sea level rise through 2050. | Python · SciPy |
+| **[Page View Time Series](https://github.com/Mirelasbianchi/page-view-time-series-visualizer)** | Time series analysis of web traffic. | Python · Pandas |
+
+</details>
 
 ---
 
 ## Tech stack
 
-**AI & Data**
+**AI:** Python · LLM agents · Tool calling · Prompt engineering · Pandas · NumPy
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
+**Backend and cloud:** PostgreSQL · Docker · AWS · Node.js · Supabase · PHP · Git
 
-**Software engineering**
+**Frontend:** JavaScript · React · Next.js
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
-
-**IoT**
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-</p>
+**Other:** Rust · C++ · ESP32 · MQTT
 
 ---
 
-<p align="center"><em>"O topo é só o começo." — The top is just the beginning.</em></p>
+## Achievements
+
+- Winner of a blockchain hackathon on the Solana network
+- Gold medal at OBMEP (Brazilian Mathematics Olympiad) and Olimpíada Mandacaru
+- Silver medal at OBA (Brazilian Astronomy Olympiad) and bronze at the Kangourou Math Olympiad
+- Selected for FGV's Talent Selection program in Pure and Applied Mathematics
+- Member of Inteli's Blockchain and Cybersecurity academic clubs
