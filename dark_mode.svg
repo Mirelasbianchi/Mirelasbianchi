@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1030px" height="530px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ff7ac6;}
+.value {fill: #c3a6ff;}
+.cc {fill: #5d5373;}
+.hd {fill: #ff7ac6; font-weight: bold;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1030px" height="530px" fill="#120f1a" rx="15"/>
+<text x="15" y="30" fill="#c3a6ff">
+<tspan x="15" y="30">  *        .           +          .    *</tspan>
+<tspan x="15" y="50">      .         *           .          </tspan>
+<tspan x="15" y="70">                  .--.                  </tspan>
+<tspan x="15" y="90">                 /    \                 </tspan>
+<tspan x="15" y="110">                |  __  |                </tspan>
+<tspan x="15" y="130">                | |oo| |                </tspan>
+<tspan x="15" y="150">                | |__| |                </tspan>
+<tspan x="15" y="170">                |      |                </tspan>
+<tspan x="15" y="190">               /        \               </tspan>
+<tspan x="15" y="210">             _/          \_             </tspan>
+<tspan x="15" y="230">  ________.-&#x27;              &#x27;-.________  </tspan>
+<tspan x="15" y="250"> /                                    \ </tspan>
+<tspan x="15" y="270">/___.-----.____          ____.-----.___\</tspan>
+<tspan x="15" y="290">   (O)   (O)   `.      .`   (O)   (O)   </tspan>
+<tspan x="15" y="310">                 |    |                 </tspan>
+<tspan x="15" y="330">                 |    |                 </tspan>
+<tspan x="15" y="350">                 |    |                 </tspan>
+<tspan x="15" y="370">                 |    |                 </tspan>
+<tspan x="15" y="390">              __/      \__              </tspan>
+<tspan x="15" y="410">        ___.-&#x27;            &#x27;-.___        </tspan>
+<tspan x="15" y="430">       /_____.--.______.--._____\       </tspan>
+<tspan x="15" y="450">                 \/  \/                 </tspan>
+<tspan x="15" y="470">   .        *                 .     +  </tspan>
+<tspan x="15" y="490">    ~  o topo é só o começo  ~          </tspan>
+</text>
+<text x="440" y="30" fill="#e8e2f4">
+<tspan x="440" y="30"><tspan class="hd">mirela@bianchi</tspan> <tspan class="cc">-———————————————————————————————————————————-</tspan></tspan>
+<tspan x="440" y="50"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Inteli · Software Engineering</tspan></tspan>
+<tspan x="440" y="70"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">AI Agent Engineer</tspan></tspan>
+<tspan x="440" y="90"><tspan class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">São Paulo, Brazil</tspan></tspan>
+<tspan x="440" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">LLM Agents, Tool Calling, MCP</tspan></tspan>
+<tspan x="440" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="440" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="440" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, Rust, C++</tspan></tspan>
+<tspan x="440" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">FastAPI, PostgreSQL, Docker, AWS</tspan></tspan>
+<tspan x="440" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Portuguese, English</tspan></tspan>
+<tspan x="440" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="440" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Sky</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Private Pilot Training</tspan></tspan>
+<tspan x="440" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Math</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Olympiads (OBMEP Gold)</tspan></tspan>
+<tspan x="440" y="310"><tspan class="hd">- Contact</tspan> <tspan class="cc">-————————————————————————————————————————————————-</tspan></tspan>
+<tspan x="440" y="330"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">School</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">mirela.bianchi@sou.inteli.edu.br</tspan></tspan>
+<tspan x="440" y="350"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">mirela-bianchi-608601254</tspan></tspan>
+<tspan x="440" y="370"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">mirelasbianchi</tspan></tspan>
+<tspan x="440" y="410"><tspan class="hd">- GitHub Stats</tspan> <tspan class="cc">-———————————————————————————————————————————-</tspan></tspan>
+<tspan x="440" y="430"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">on GitHub since Jan 2025</tspan></tspan>
+<tspan x="440" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="value">36</tspan> <tspan class="cc">|</tspan> <tspan class="key">Stars</tspan>: <tspan class="value">3</tspan> <tspan class="cc">|</tspan> <tspan class="key">Followers</tspan>: <tspan class="value">17</tspan></tspan>
+<tspan x="440" y="470"><tspan class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">rag-platform, brazil-data-mcp</tspan></tspan>
+<tspan x="440" y="490"><tspan class="cc">. </tspan><tspan class="key">Achievement</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Solana Hackathon Winner</tspan></tspan>
+</text>
+</svg>
