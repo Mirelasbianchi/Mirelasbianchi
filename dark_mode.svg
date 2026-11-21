@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1030px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1070px" height="530px" font-size="16px">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
 .key {fill: #ff7ac6;}
@@ -8,32 +8,52 @@
 .hd {fill: #ff7ac6; font-weight: bold;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1030px" height="530px" fill="#120f1a" rx="15"/>
-<text x="15" y="30" fill="#c3a6ff">
-<tspan x="15" y="30">  *        .           +          .    *</tspan>
-<tspan x="15" y="50">      .         *           .          </tspan>
-<tspan x="15" y="70">                  .--.                  </tspan>
-<tspan x="15" y="90">                 /    \                 </tspan>
-<tspan x="15" y="110">                |  __  |                </tspan>
-<tspan x="15" y="130">                | |oo| |                </tspan>
-<tspan x="15" y="150">                | |__| |                </tspan>
-<tspan x="15" y="170">                |      |                </tspan>
-<tspan x="15" y="190">               /        \               </tspan>
-<tspan x="15" y="210">             _/          \_             </tspan>
-<tspan x="15" y="230">  ________.-&#x27;              &#x27;-.________  </tspan>
-<tspan x="15" y="250"> /                                    \ </tspan>
-<tspan x="15" y="270">/___.-----.____          ____.-----.___\</tspan>
-<tspan x="15" y="290">   (O)   (O)   `.      .`   (O)   (O)   </tspan>
-<tspan x="15" y="310">                 |    |                 </tspan>
-<tspan x="15" y="330">                 |    |                 </tspan>
-<tspan x="15" y="350">                 |    |                 </tspan>
-<tspan x="15" y="370">                 |    |                 </tspan>
-<tspan x="15" y="390">              __/      \__              </tspan>
-<tspan x="15" y="410">        ___.-&#x27;            &#x27;-.___        </tspan>
-<tspan x="15" y="430">       /_____.--.______.--._____\       </tspan>
-<tspan x="15" y="450">                 \/  \/                 </tspan>
-<tspan x="15" y="470">   .        *                 .     +  </tspan>
-<tspan x="15" y="490">    ~  o topo é só o começo  ~          </tspan>
+<rect width="1070px" height="530px" fill="#120f1a" rx="15"/>
+<text x="15" y="30" font-size="9px" fill="#c3a6ff">
+<tspan x="15" y="26">                                                                        </tspan>
+<tspan x="15" y="37">                                        ,^^                             </tspan>
+<tspan x="15" y="48">                               :!;::;i;^```^:!|!:                       </tspan>
+<tspan x="15" y="59">                             !j!:`,;l!'',:,^`,:;!||                     </tspan>
+<tspan x="15" y="70">                           ;j!^,;|k%Hmj|:^:;;,,:;:;ij                   </tspan>
+<tspan x="15" y="81">                          ii::mHM@@@@@@@Hmj;:!!;;;;;iw                  </tspan>
+<tspan x="15" y="92">                        !ii,!@@@@@@@@@@@@@@%!`|!!;|!|lH                 </tspan>
+<tspan x="15" y="103">                      ,ji!:^MMMM@@@@@@@@@@@@@l;!i||||lkH                </tspan>
+<tspan x="15" y="114">                     :j|;!`%@MM@@@@@@@@@@@@@@@i:ij;j!lkHk               </tspan>
+<tspan x="15" y="125">                     ji:i^|wkw%HMM@MMM%www%HM@m:|j!iiilwM,              </tspan>
+<tspan x="15" y="136">                     j!!;`kj|:^!w%MHli;:|jkmwwm:!j|,i||wHm              </tspan>
+<tspan x="15" y="147">                    |i!:^'iii!|,;%@Mw|jmlkkkwHw^:|j`!||jj@:             </tspan>
+<tspan x="15" y="158">                    li:^'!|!|!iilM@@@m!l!;ijmHM:^,j^,|!j!%m             </tspan>
+<tspan x="15" y="169">                   !i|`'l@MMHMHwH@@@@@M%HMM@@@@w`'|,`|:j!l@             </tspan>
+<tspan x="15" y="180">                   ij|.^@HM@@M%H@@@@@HM@@@@@@MMM^.::`|;j|l@!            </tspan>
+<tspan x="15" y="191">                   jl;.^Hw%%|i|;jljk%wikM@@@@MMH^',!^!||jw@k            </tspan>
+<tspan x="15" y="202">                  !lj;'.jl|`,%kklkwwH@%||mHHHH@k`^^l,!|;lH@m:           </tspan>
+<tspan x="15" y="213">                  ijj:'.`wkii|ikkkmwmmkl!|w%%%@:`,,l:!!|kM@jk           </tspan>
+<tspan x="15" y="224">                  |jj:^`.lw%%miiijkw%HHHMHHHHHH':^:j::!|lM@|im          </tspan>
+<tspan x="15" y="235">                 ,!li:^:.'kmww%mmw%M@@@@MMHHHM|.!^!!!^,jwH@|imi         </tspan>
+<tspan x="15" y="246">                 ,ji!;`;^.`im%HM@H@@@@@@@MMHw|.'!`!^|^`jHM@ljjlj        </tspan>
+<tspan x="15" y="257">                .,l;i:`;:''.^!lkwm%MMHwmkli;^'.:,`,';:`lmw@%llk!l,      </tspan>
+<tspan x="15" y="268">             `^,,ij:j,^!;^'...'`,,,::,,,,,^,,`':`^^.,;:ilkM@HwHjll|     </tspan>
+<tspan x="15" y="279">        ``,:,,,^^j!!|::|^,`...```^,:;|iji|!;,``^`;.',:||ilHMM@Mkkkjj    </tspan>
+<tspan x="15" y="290">     ^::^^'``'''|i;|;!;^'^'...^:,^,;|jji|!:,,^^.;^.^;,|i!imH@@M%miijj   </tspan>
+<tspan x="15" y="301">  ,:,^'.''..`'.^|!!,,`i^'.''..^:;::;!ii!;:,^`^.,;`'^!:ji||lk@HwwHi!i!   </tspan>
+<tspan x="15" y="312"> :`..``'..''.''`,;i`,!l,'.`:'.',:::::;;::,^`..,!'^`,!:lji|il%;,ljjij:   </tspan>
+<tspan x="15" y="323">:,^^'..``....'.'^^j^`ij:`''!`.`,;:,,,,,,,,`'.,,'.:^;,;ki;;:!:`.,^`^:!;  </tspan>
+<tspan x="15" y="334">^``^^``.'`......`'!:``i!^`.;^',;||!;::::,^`'`'...;:,`:lj:::^'`''^^^`^!!|</tspan>
+<tspan x="15" y="345">`^`'``^^..`.....''`;^.^;|^'^^',|jkljii|!:,^'..`.^;:``,ii!:``'''`^````''!</tspan>
+<tspan x="15" y="356">^^^^^'''^'.'....'`'^`.;,;^^`,`,ilmmmklji|;^`'''`,:,'`,:!!,''''`'```'`^,,</tspan>
+<tspan x="15" y="367">^^^,^,^''^.''...',``''|:,'^^:^,ikmwwwmkji!:`''^,,^^'.^`!!^'''''```^^^^,:</tspan>
+<tspan x="15" y="378">^^,^^^^^'.`'...'':,,.,i,^`!^:^:|llmmmkllj;'.``'^,^'`.``,|'`.'``^^^^^^^^^</tspan>
+<tspan x="15" y="389">'```^^^^^`.''..'.;,,'|i:^:^',^:illkmmml|^..`'.`:^`''.'',;'.````````^^^,,</tspan>
+<tspan x="15" y="400">;:,^`''``^^.....:::,!l:,'!^`^``:;|i|!,'...'..^^'.`.`.``;:.`'.'''`^^^`^^,</tspan>
+<tspan x="15" y="411">MMMHwki;^''`..`;;;,,i:,`':!`^,`...'.....'..'^`'`'.''`^,;:.`..'''```^,,^^</tspan>
+<tspan x="15" y="422">%HHMM@@@Hk!``^,,;,.,;```.`,'^`^.''......'.^^:::...'',:^;;.'..'``^^,,,,,^</tspan>
+<tspan x="15" y="433">%HHHHHHHH%wl^.'``.,,,,,,.;^'``''.........''^,:`..'`:;',;;....`^,^^^^,,,,</tspan>
+<tspan x="15" y="444">%%HHHHMHH%ww,..^`'|!,^::,:`.^^'.........`^'':;'.'`!:`',|:...'`'`''``^```</tspan>
+<tspan x="15" y="455">%%HHHHMHH%%%:.':^^j|,^,`;:`',`'........''`':j!.';:,^'.,j,...^:|jkw%%%wml</tspan>
+<tspan x="15" y="466">%HHHHMMMHH%H^..;:,;:^^,`:,.``,'.......'..^`;|^`;:```'.^k:''iwHMMMMMMMMMM</tspan>
+<tspan x="15" y="477">%HHHMMMMHH%H`..:;`!:'';!:`'^'^'......`'.'.`;:'^^``^````j,';ww%%%HHHHHH%%</tspan>
+<tspan x="15" y="488">%HHMMMMMM%H%..'`,^::`.,;,``^''`.....`'..'^:^.'`^,`^^`,^!^`|ww%%HHHHHHHHH</tspan>
+<tspan x="15" y="499">HHMMMMMMMHHw..'.,::!```:`'```.,....^'..'^^'..^'^,^^^;;`;:,lm%%HHHHHHHHHH</tspan>
 </text>
 <text x="440" y="30" fill="#e8e2f4">
 <tspan x="440" y="30"><tspan class="hd">mirela@bianchi</tspan> <tspan class="cc">-———————————————————————————————————————————-</tspan></tspan>
